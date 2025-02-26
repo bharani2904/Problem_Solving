@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bharani2904/Problem_Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
+## String
+|  |
+| ------- |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/bharani2904/Problem_Solving/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 <!---LeetCode Topics End-->
