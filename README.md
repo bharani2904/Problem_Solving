@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/bharani2904/Problem_Solving/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3311-ant-on-the-boundary](https://github.com/bharani2904/Problem_Solving/tree/master/3311-ant-on-the-boundary) |
 | [3321-type-of-triangle](https://github.com/bharani2904/Problem_Solving/tree/master/3321-type-of-triangle) |
+| [3330-modify-the-matrix](https://github.com/bharani2904/Problem_Solving/tree/master/3330-modify-the-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3311-ant-on-the-boundary](https://github.com/bharani2904/Problem_Solving/tree/master/3311-ant-on-the-boundary) |
+## Matrix
+|  |
+| ------- |
+| [3330-modify-the-matrix](https://github.com/bharani2904/Problem_Solving/tree/master/3330-modify-the-matrix) |
 <!---LeetCode Topics End-->
