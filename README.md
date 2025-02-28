@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/bharani2904/Problem_Solving/tree/master/0119-pascals-triangle-ii) |
 | [1241-decompress-run-length-encoded-list](https://github.com/bharani2904/Problem_Solving/tree/master/1241-decompress-run-length-encoded-list) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/bharani2904/Problem_Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bharani2904/Problem_Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3226-minimum-number-game](https://github.com/bharani2904/Problem_Solving/tree/master/3226-minimum-number-game) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/bharani2904/Problem_Solving/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3311-ant-on-the-boundary](https://github.com/bharani2904/Problem_Solving/tree/master/3311-ant-on-the-boundary) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bharani2904/Problem_Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3226-minimum-number-game](https://github.com/bharani2904/Problem_Solving/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/bharani2904/Problem_Solving/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/bharani2904/Problem_Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Sliding Window
+|  |
+| ------- |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bharani2904/Problem_Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
