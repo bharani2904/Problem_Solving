@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/bharani2904/Problem_Solving/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2083-three-divisors](https://github.com/bharani2904/Problem_Solving/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/bharani2904/Problem_Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2491-smallest-even-multiple](https://github.com/bharani2904/Problem_Solving/tree/master/2491-smallest-even-multiple) |
 | [3321-type-of-triangle](https://github.com/bharani2904/Problem_Solving/tree/master/3321-type-of-triangle) |
 ## Greedy
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2083-three-divisors](https://github.com/bharani2904/Problem_Solving/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/bharani2904/Problem_Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2491-smallest-even-multiple](https://github.com/bharani2904/Problem_Solving/tree/master/2491-smallest-even-multiple) |
 ## Sliding Window
 |  |
 | ------- |
