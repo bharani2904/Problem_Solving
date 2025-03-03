@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/bharani2904/Problem_Solving/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1660-thousand-separator](https://github.com/bharani2904/Problem_Solving/tree/master/1660-thousand-separator) |
+| [1970-sorting-the-sentence](https://github.com/bharani2904/Problem_Solving/tree/master/1970-sorting-the-sentence) |
 | [3312-number-of-changing-keys](https://github.com/bharani2904/Problem_Solving/tree/master/3312-number-of-changing-keys) |
 | [3636-check-balanced-string](https://github.com/bharani2904/Problem_Solving/tree/master/3636-check-balanced-string) |
 ## Math
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1970-sorting-the-sentence](https://github.com/bharani2904/Problem_Solving/tree/master/1970-sorting-the-sentence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bharani2904/Problem_Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3226-minimum-number-game](https://github.com/bharani2904/Problem_Solving/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/bharani2904/Problem_Solving/tree/master/3321-type-of-triangle) |
