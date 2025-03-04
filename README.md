@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1241-decompress-run-length-encoded-list](https://github.com/bharani2904/Problem_Solving/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/bharani2904/Problem_Solving/tree/master/1293-three-consecutive-odds) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/bharani2904/Problem_Solving/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2058-concatenation-of-array](https://github.com/bharani2904/Problem_Solving/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/bharani2904/Problem_Solving/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/bharani2904/Problem_Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bharani2904/Problem_Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/bharani2904/Problem_Solving/tree/master/2058-concatenation-of-array) |
 | [3226-minimum-number-game](https://github.com/bharani2904/Problem_Solving/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/bharani2904/Problem_Solving/tree/master/3311-ant-on-the-boundary) |
 ## Prefix Sum
