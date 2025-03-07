@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1660-thousand-separator](https://github.com/bharani2904/Problem_Solving/tree/master/1660-thousand-separator) |
 | [1954-replace-all-digits-with-characters](https://github.com/bharani2904/Problem_Solving/tree/master/1954-replace-all-digits-with-characters) |
 | [1970-sorting-the-sentence](https://github.com/bharani2904/Problem_Solving/tree/master/1970-sorting-the-sentence) |
+| [2011-maximum-value-after-insertion](https://github.com/bharani2904/Problem_Solving/tree/master/2011-maximum-value-after-insertion) |
 | [3312-number-of-changing-keys](https://github.com/bharani2904/Problem_Solving/tree/master/3312-number-of-changing-keys) |
 | [3636-check-balanced-string](https://github.com/bharani2904/Problem_Solving/tree/master/3636-check-balanced-string) |
 ## Math
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/bharani2904/Problem_Solving/tree/master/1448-maximum-69-number) |
+| [2011-maximum-value-after-insertion](https://github.com/bharani2904/Problem_Solving/tree/master/2011-maximum-value-after-insertion) |
 ## Bit Manipulation
 |  |
 | ------- |
