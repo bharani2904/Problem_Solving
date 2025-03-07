@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/bharani2904/Problem_Solving/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/bharani2904/Problem_Solving/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1561-rearrange-words-in-a-sentence](https://github.com/bharani2904/Problem_Solving/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bharani2904/Problem_Solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1660-thousand-separator](https://github.com/bharani2904/Problem_Solving/tree/master/1660-thousand-separator) |
 | [1954-replace-all-digits-with-characters](https://github.com/bharani2904/Problem_Solving/tree/master/1954-replace-all-digits-with-characters) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1561-rearrange-words-in-a-sentence](https://github.com/bharani2904/Problem_Solving/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1970-sorting-the-sentence](https://github.com/bharani2904/Problem_Solving/tree/master/1970-sorting-the-sentence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bharani2904/Problem_Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3226-minimum-number-game](https://github.com/bharani2904/Problem_Solving/tree/master/3226-minimum-number-game) |
