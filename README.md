@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/bharani2904/Problem_Solving/tree/master/0119-pascals-triangle-ii) |
+| [0523-continuous-subarray-sum](https://github.com/bharani2904/Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [1241-decompress-run-length-encoded-list](https://github.com/bharani2904/Problem_Solving/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/bharani2904/Problem_Solving/tree/master/1293-three-consecutive-odds) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/bharani2904/Problem_Solving/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/bharani2904/Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/bharani2904/Problem_Solving/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bharani2904/Problem_Solving/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/bharani2904/Problem_Solving/tree/master/1448-maximum-69-number) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/bharani2904/Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/bharani2904/Problem_Solving/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2102-find-the-middle-index-in-array](https://github.com/bharani2904/Problem_Solving/tree/master/2102-find-the-middle-index-in-array) |
 | [3311-ant-on-the-boundary](https://github.com/bharani2904/Problem_Solving/tree/master/3311-ant-on-the-boundary) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/bharani2904/Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [2442-number-of-arithmetic-triplets](https://github.com/bharani2904/Problem_Solving/tree/master/2442-number-of-arithmetic-triplets) |
 ## Two Pointers
 |  |
