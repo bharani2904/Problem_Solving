@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/bharani2904/Problem_Solving/tree/master/0523-continuous-subarray-sum) |
+| [0593-valid-square](https://github.com/bharani2904/Problem_Solving/tree/master/0593-valid-square) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/bharani2904/Problem_Solving/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bharani2904/Problem_Solving/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/bharani2904/Problem_Solving/tree/master/1448-maximum-69-number) |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/bharani2904/Problem_Solving/tree/master/2442-number-of-arithmetic-triplets) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/bharani2904/Problem_Solving/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
