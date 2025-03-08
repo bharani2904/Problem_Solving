@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/bharani2904/Problem_Solving/tree/master/0119-pascals-triangle-ii) |
+| [0474-ones-and-zeroes](https://github.com/bharani2904/Problem_Solving/tree/master/0474-ones-and-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/bharani2904/Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [1241-decompress-run-length-encoded-list](https://github.com/bharani2904/Problem_Solving/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/bharani2904/Problem_Solving/tree/master/1293-three-consecutive-odds) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/bharani2904/Problem_Solving/tree/master/0119-pascals-triangle-ii) |
+| [0474-ones-and-zeroes](https://github.com/bharani2904/Problem_Solving/tree/master/0474-ones-and-zeroes) |
 ## Database
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/bharani2904/Problem_Solving/tree/master/0474-ones-and-zeroes) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/bharani2904/Problem_Solving/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/bharani2904/Problem_Solving/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/bharani2904/Problem_Solving/tree/master/1561-rearrange-words-in-a-sentence) |
