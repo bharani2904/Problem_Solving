@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/bharani2904/Problem_Solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/bharani2904/Problem_Solving/tree/master/0474-ones-and-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/bharani2904/Problem_Solving/tree/master/0523-continuous-subarray-sum) |
+| [0692-top-k-frequent-words](https://github.com/bharani2904/Problem_Solving/tree/master/0692-top-k-frequent-words) |
 | [1241-decompress-run-length-encoded-list](https://github.com/bharani2904/Problem_Solving/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/bharani2904/Problem_Solving/tree/master/1293-three-consecutive-odds) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/bharani2904/Problem_Solving/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/bharani2904/Problem_Solving/tree/master/0474-ones-and-zeroes) |
+| [0692-top-k-frequent-words](https://github.com/bharani2904/Problem_Solving/tree/master/0692-top-k-frequent-words) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/bharani2904/Problem_Solving/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/bharani2904/Problem_Solving/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/bharani2904/Problem_Solving/tree/master/1561-rearrange-words-in-a-sentence) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/bharani2904/Problem_Solving/tree/master/0692-top-k-frequent-words) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/bharani2904/Problem_Solving/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1970-sorting-the-sentence](https://github.com/bharani2904/Problem_Solving/tree/master/1970-sorting-the-sentence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bharani2904/Problem_Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/bharani2904/Problem_Solving/tree/master/0692-top-k-frequent-words) |
 | [3226-minimum-number-game](https://github.com/bharani2904/Problem_Solving/tree/master/3226-minimum-number-game) |
 ## Simulation
 |  |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/bharani2904/Problem_Solving/tree/master/0523-continuous-subarray-sum) |
+| [0692-top-k-frequent-words](https://github.com/bharani2904/Problem_Solving/tree/master/0692-top-k-frequent-words) |
 | [2442-number-of-arithmetic-triplets](https://github.com/bharani2904/Problem_Solving/tree/master/2442-number-of-arithmetic-triplets) |
 ## Two Pointers
 |  |
@@ -167,4 +172,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/bharani2904/Problem_Solving/tree/master/0593-valid-square) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/bharani2904/Problem_Solving/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/bharani2904/Problem_Solving/tree/master/0692-top-k-frequent-words) |
+## Counting
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/bharani2904/Problem_Solving/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
