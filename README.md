@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bharani2904/Problem_Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0633-sum-of-square-numbers](https://github.com/bharani2904/Problem_Solving/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/bharani2904/Problem_Solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/bharani2904/Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/bharani2904/Problem_Solving/tree/master/0593-valid-square) |
+| [0633-sum-of-square-numbers](https://github.com/bharani2904/Problem_Solving/tree/master/0633-sum-of-square-numbers) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/bharani2904/Problem_Solving/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bharani2904/Problem_Solving/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/bharani2904/Problem_Solving/tree/master/1448-maximum-69-number) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/bharani2904/Problem_Solving/tree/master/0633-sum-of-square-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/bharani2904/Problem_Solving/tree/master/2442-number-of-arithmetic-triplets) |
 ## Geometry
 |  |
