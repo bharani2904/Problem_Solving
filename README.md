@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/bharani2904/Problem_Solving/tree/master/0692-top-k-frequent-words) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/bharani2904/Problem_Solving/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/bharani2904/Problem_Solving/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/bharani2904/Problem_Solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/bharani2904/Problem_Solving/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bharani2904/Problem_Solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1660-thousand-separator](https://github.com/bharani2904/Problem_Solving/tree/master/1660-thousand-separator) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/bharani2904/Problem_Solving/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/bharani2904/Problem_Solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bharani2904/Problem_Solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bharani2904/Problem_Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Enumeration
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/bharani2904/Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [0692-top-k-frequent-words](https://github.com/bharani2904/Problem_Solving/tree/master/0692-top-k-frequent-words) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/bharani2904/Problem_Solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2442-number-of-arithmetic-triplets](https://github.com/bharani2904/Problem_Solving/tree/master/2442-number-of-arithmetic-triplets) |
 ## Two Pointers
 |  |
