@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/bharani2904/Problem_Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/bharani2904/Problem_Solving/tree/master/0119-pascals-triangle-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/bharani2904/Problem_Solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/bharani2904/Problem_Solving/tree/master/0474-ones-and-zeroes) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/bharani2904/Problem_Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bharani2904/Problem_Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0633-sum-of-square-numbers](https://github.com/bharani2904/Problem_Solving/tree/master/0633-sum-of-square-numbers) |
 ## String
