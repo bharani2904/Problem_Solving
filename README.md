@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bharani2904/Problem_Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2442-number-of-arithmetic-triplets](https://github.com/bharani2904/Problem_Solving/tree/master/2442-number-of-arithmetic-triplets) |
 | [3226-minimum-number-game](https://github.com/bharani2904/Problem_Solving/tree/master/3226-minimum-number-game) |
+| [3227-find-missing-and-repeated-values](https://github.com/bharani2904/Problem_Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/bharani2904/Problem_Solving/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3311-ant-on-the-boundary](https://github.com/bharani2904/Problem_Solving/tree/master/3311-ant-on-the-boundary) |
 | [3321-type-of-triangle](https://github.com/bharani2904/Problem_Solving/tree/master/3321-type-of-triangle) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/bharani2904/Problem_Solving/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/bharani2904/Problem_Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/bharani2904/Problem_Solving/tree/master/2491-smallest-even-multiple) |
+| [3227-find-missing-and-repeated-values](https://github.com/bharani2904/Problem_Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/bharani2904/Problem_Solving/tree/master/3321-type-of-triangle) |
 ## Greedy
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/bharani2904/Problem_Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/bharani2904/Problem_Solving/tree/master/3330-modify-the-matrix) |
 ## Number Theory
 |  |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/bharani2904/Problem_Solving/tree/master/0692-top-k-frequent-words) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bharani2904/Problem_Solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2442-number-of-arithmetic-triplets](https://github.com/bharani2904/Problem_Solving/tree/master/2442-number-of-arithmetic-triplets) |
+| [3227-find-missing-and-repeated-values](https://github.com/bharani2904/Problem_Solving/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
