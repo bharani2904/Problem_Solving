@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/bharani2904/Problem_Solving/tree/master/1217-relative-sort-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/bharani2904/Problem_Solving/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/bharani2904/Problem_Solving/tree/master/1293-three-consecutive-odds) |
+| [1319-unique-number-of-occurrences](https://github.com/bharani2904/Problem_Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1646-kth-missing-positive-number](https://github.com/bharani2904/Problem_Solving/tree/master/1646-kth-missing-positive-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/bharani2904/Problem_Solving/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2058-concatenation-of-array](https://github.com/bharani2904/Problem_Solving/tree/master/2058-concatenation-of-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/bharani2904/Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [0692-top-k-frequent-words](https://github.com/bharani2904/Problem_Solving/tree/master/0692-top-k-frequent-words) |
 | [1217-relative-sort-array](https://github.com/bharani2904/Problem_Solving/tree/master/1217-relative-sort-array) |
+| [1319-unique-number-of-occurrences](https://github.com/bharani2904/Problem_Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bharani2904/Problem_Solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/bharani2904/Problem_Solving/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/bharani2904/Problem_Solving/tree/master/2442-number-of-arithmetic-triplets) |
