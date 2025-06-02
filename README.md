@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/bharani2904/Problem_Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/bharani2904/Problem_Solving/tree/master/0039-combination-sum) |
 | [0119-pascals-triangle-ii](https://github.com/bharani2904/Problem_Solving/tree/master/0119-pascals-triangle-ii) |
+| [0135-candy](https://github.com/bharani2904/Problem_Solving/tree/master/0135-candy) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/bharani2904/Problem_Solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/bharani2904/Problem_Solving/tree/master/0474-ones-and-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/bharani2904/Problem_Solving/tree/master/0523-continuous-subarray-sum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/bharani2904/Problem_Solving/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/bharani2904/Problem_Solving/tree/master/0402-remove-k-digits) |
 | [1448-maximum-69-number](https://github.com/bharani2904/Problem_Solving/tree/master/1448-maximum-69-number) |
 | [2011-maximum-value-after-insertion](https://github.com/bharani2904/Problem_Solving/tree/master/2011-maximum-value-after-insertion) |
