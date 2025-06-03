@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-replace-the-substring-for-balanced-string](https://github.com/bharani2904/Problem_Solving/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/bharani2904/Problem_Solving/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bharani2904/Problem_Solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1472-increasing-decreasing-string](https://github.com/bharani2904/Problem_Solving/tree/master/1472-increasing-decreasing-string) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/bharani2904/Problem_Solving/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bharani2904/Problem_Solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1660-thousand-separator](https://github.com/bharani2904/Problem_Solving/tree/master/1660-thousand-separator) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/bharani2904/Problem_Solving/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/bharani2904/Problem_Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bharani2904/Problem_Solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1472-increasing-decreasing-string](https://github.com/bharani2904/Problem_Solving/tree/master/1472-increasing-decreasing-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/bharani2904/Problem_Solving/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/bharani2904/Problem_Solving/tree/master/2442-number-of-arithmetic-triplets) |
 | [3227-find-missing-and-repeated-values](https://github.com/bharani2904/Problem_Solving/tree/master/3227-find-missing-and-repeated-values) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/bharani2904/Problem_Solving/tree/master/0692-top-k-frequent-words) |
+| [1472-increasing-decreasing-string](https://github.com/bharani2904/Problem_Solving/tree/master/1472-increasing-decreasing-string) |
 ## Stack
 |  |
 | ------- |
