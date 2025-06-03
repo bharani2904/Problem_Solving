@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/bharani2904/Problem_Solving/tree/master/0474-ones-and-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/bharani2904/Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [0692-top-k-frequent-words](https://github.com/bharani2904/Problem_Solving/tree/master/0692-top-k-frequent-words) |
+| [0792-binary-search](https://github.com/bharani2904/Problem_Solving/tree/master/0792-binary-search) |
 | [1217-relative-sort-array](https://github.com/bharani2904/Problem_Solving/tree/master/1217-relative-sort-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/bharani2904/Problem_Solving/tree/master/1241-decompress-run-length-encoded-list) |
 | [1293-three-consecutive-odds](https://github.com/bharani2904/Problem_Solving/tree/master/1293-three-consecutive-odds) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/bharani2904/Problem_Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bharani2904/Problem_Solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0633-sum-of-square-numbers](https://github.com/bharani2904/Problem_Solving/tree/master/0633-sum-of-square-numbers) |
+| [0792-binary-search](https://github.com/bharani2904/Problem_Solving/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/bharani2904/Problem_Solving/tree/master/1646-kth-missing-positive-number) |
 ## String
 |  |
