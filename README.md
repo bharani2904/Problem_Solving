@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/bharani2904/Problem_Solving/tree/master/0039-combination-sum) |
 | [0119-pascals-triangle-ii](https://github.com/bharani2904/Problem_Solving/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/bharani2904/Problem_Solving/tree/master/0135-candy) |
+| [0322-coin-change](https://github.com/bharani2904/Problem_Solving/tree/master/0322-coin-change) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/bharani2904/Problem_Solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/bharani2904/Problem_Solving/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/bharani2904/Problem_Solving/tree/master/0485-max-consecutive-ones) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/bharani2904/Problem_Solving/tree/master/0119-pascals-triangle-ii) |
+| [0322-coin-change](https://github.com/bharani2904/Problem_Solving/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/bharani2904/Problem_Solving/tree/master/0474-ones-and-zeroes) |
 ## Database
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/bharani2904/Problem_Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/bharani2904/Problem_Solving/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
