@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/bharani2904/Problem_Solving/tree/master/0119-pascals-triangle-ii) |
+| [0131-palindrome-partitioning](https://github.com/bharani2904/Problem_Solving/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/bharani2904/Problem_Solving/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/bharani2904/Problem_Solving/tree/master/0474-ones-and-zeroes) |
 ## Database
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/bharani2904/Problem_Solving/tree/master/0043-multiply-strings) |
+| [0131-palindrome-partitioning](https://github.com/bharani2904/Problem_Solving/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/bharani2904/Problem_Solving/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/bharani2904/Problem_Solving/tree/master/0474-ones-and-zeroes) |
 | [0692-top-k-frequent-words](https://github.com/bharani2904/Problem_Solving/tree/master/0692-top-k-frequent-words) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/bharani2904/Problem_Solving/tree/master/0039-combination-sum) |
+| [0131-palindrome-partitioning](https://github.com/bharani2904/Problem_Solving/tree/master/0131-palindrome-partitioning) |
 ## Counting Sort
 |  |
 | ------- |
