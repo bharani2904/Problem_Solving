@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/bharani2904/Problem_Solving/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/bharani2904/Problem_Solving/tree/master/3330-modify-the-matrix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/bharani2904/Problem_Solving/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3429-special-array-i](https://github.com/bharani2904/Problem_Solving/tree/master/3429-special-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
