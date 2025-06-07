@@ -1,27 +1,37 @@
 class Solution {
     public String robotWithString(String s) {
-        int n=s.length();
-        int[] minCharSuffix=new int[n];
-
-        minCharSuffix[n-1]=s.charAt(n-1);
-        for(int i=n-2;i>=0;i--){
-            minCharSuffix[i]=Math.min(s.charAt(i), minCharSuffix[i+1]);
-        }
-
-        StringBuilder ans=new StringBuilder();
         Stack<Character> st=new Stack<>();
-
+        StringBuilder sb=new StringBuilder();
+        int n=s.length();
+        char[]dp=new char[n];
+        minchar(s,dp);
         for(int i=0;i<n;i++){
-            char c=s.charAt(i);
-            st.push(c);
-
-            while(!st.isEmpty() && st.peek()<=minCharSuffix[i==n-1 ? n-1 :i+1]){
-                ans.append(st.pop());
+            while(!st.isEmpty()&&st.peek()<=dp[i]){
+                sb.append(st.pop());
             }
+            st.add(s.charAt(i));
         }
         while(!st.isEmpty()){
-            ans.append(st.pop());
+            sb.append(st.pop());
         }
-        return ans.toString();
+        return sb.toString();
+    }
+
+    private void print(Stack<Character> s){
+        for(char i:s){
+            System.out.print(i);
+        }
+        System.out.println();
+    }
+    private void minchar(String s, char[] dp){
+        int n=s.length();
+        char min=s.charAt(n-1);
+        dp[n-1]=min;
+        for(int i=n-2;i>=0;i--){
+            if(min>s.charAt(i)){
+                min=s.charAt(i);
+            }
+            dp[i]=min;
+        }
     }
 }
