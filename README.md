@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/bharani2904/Problem_Solving/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0692-top-k-frequent-words](https://github.com/bharani2904/Problem_Solving/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
