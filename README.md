@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-number-of-changing-keys](https://github.com/bharani2904/Problem_Solving/tree/master/3312-number-of-changing-keys) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/bharani2904/Problem_Solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3636-check-balanced-string](https://github.com/bharani2904/Problem_Solving/tree/master/3636-check-balanced-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/bharani2904/Problem_Solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bharani2904/Problem_Solving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/bharani2904/Problem_Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/bharani2904/Problem_Solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/bharani2904/Problem_Solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-increasing-decreasing-string](https://github.com/bharani2904/Problem_Solving/tree/master/1472-increasing-decreasing-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/bharani2904/Problem_Solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bharani2904/Problem_Solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/bharani2904/Problem_Solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
