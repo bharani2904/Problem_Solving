@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/bharani2904/Problem_Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/bharani2904/Problem_Solving/tree/master/0402-remove-k-digits) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/bharani2904/Problem_Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/bharani2904/Problem_Solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -293,4 +294,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/bharani2904/Problem_Solving/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/bharani2904/Problem_Solving/tree/master/0140-word-break-ii) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/bharani2904/Problem_Solving/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/bharani2904/Problem_Solving/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
