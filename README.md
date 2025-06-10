@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/bharani2904/Problem_Solving/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/bharani2904/Problem_Solving/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/bharani2904/Problem_Solving/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/bharani2904/Problem_Solving/tree/master/0140-word-break-ii) |
 | [0322-coin-change](https://github.com/bharani2904/Problem_Solving/tree/master/0322-coin-change) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/bharani2904/Problem_Solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/bharani2904/Problem_Solving/tree/master/0474-ones-and-zeroes) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/bharani2904/Problem_Solving/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/bharani2904/Problem_Solving/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/bharani2904/Problem_Solving/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/bharani2904/Problem_Solving/tree/master/0140-word-break-ii) |
 | [0322-coin-change](https://github.com/bharani2904/Problem_Solving/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/bharani2904/Problem_Solving/tree/master/0474-ones-and-zeroes) |
 ## Database
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/bharani2904/Problem_Solving/tree/master/0043-multiply-strings) |
 | [0131-palindrome-partitioning](https://github.com/bharani2904/Problem_Solving/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/bharani2904/Problem_Solving/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/bharani2904/Problem_Solving/tree/master/0140-word-break-ii) |
 | [0402-remove-k-digits](https://github.com/bharani2904/Problem_Solving/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/bharani2904/Problem_Solving/tree/master/0474-ones-and-zeroes) |
 | [0692-top-k-frequent-words](https://github.com/bharani2904/Problem_Solving/tree/master/0692-top-k-frequent-words) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/bharani2904/Problem_Solving/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/bharani2904/Problem_Solving/tree/master/0140-word-break-ii) |
 | [0523-continuous-subarray-sum](https://github.com/bharani2904/Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [0692-top-k-frequent-words](https://github.com/bharani2904/Problem_Solving/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/bharani2904/Problem_Solving/tree/master/0782-jewels-and-stones) |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/bharani2904/Problem_Solving/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/bharani2904/Problem_Solving/tree/master/0140-word-break-ii) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/bharani2904/Problem_Solving/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0692-top-k-frequent-words](https://github.com/bharani2904/Problem_Solving/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
@@ -278,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/bharani2904/Problem_Solving/tree/master/0039-combination-sum) |
 | [0131-palindrome-partitioning](https://github.com/bharani2904/Problem_Solving/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/bharani2904/Problem_Solving/tree/master/0140-word-break-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -286,4 +292,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/bharani2904/Problem_Solving/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/bharani2904/Problem_Solving/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
