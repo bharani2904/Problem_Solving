@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/bharani2904/Problem_Solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3636-check-balanced-string](https://github.com/bharani2904/Problem_Solving/tree/master/3636-check-balanced-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/bharani2904/Problem_Solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/bharani2904/Problem_Solving/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Math
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/bharani2904/Problem_Solving/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2102-find-the-middle-index-in-array](https://github.com/bharani2904/Problem_Solving/tree/master/2102-find-the-middle-index-in-array) |
 | [3311-ant-on-the-boundary](https://github.com/bharani2904/Problem_Solving/tree/master/3311-ant-on-the-boundary) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/bharani2904/Problem_Solving/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -209,11 +211,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/bharani2904/Problem_Solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bharani2904/Problem_Solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bharani2904/Problem_Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/bharani2904/Problem_Solving/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Enumeration
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/bharani2904/Problem_Solving/tree/master/2083-three-divisors) |
 | [2442-number-of-arithmetic-triplets](https://github.com/bharani2904/Problem_Solving/tree/master/2442-number-of-arithmetic-triplets) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/bharani2904/Problem_Solving/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Hash Table
 |  |
 | ------- |
