@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1954-replace-all-digits-with-characters](https://github.com/bharani2904/Problem_Solving/tree/master/1954-replace-all-digits-with-characters) |
 | [1970-sorting-the-sentence](https://github.com/bharani2904/Problem_Solving/tree/master/1970-sorting-the-sentence) |
 | [2011-maximum-value-after-insertion](https://github.com/bharani2904/Problem_Solving/tree/master/2011-maximum-value-after-insertion) |
+| [2235-capitalize-the-title](https://github.com/bharani2904/Problem_Solving/tree/master/2235-capitalize-the-title) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/bharani2904/Problem_Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3312-number-of-changing-keys](https://github.com/bharani2904/Problem_Solving/tree/master/3312-number-of-changing-keys) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/bharani2904/Problem_Solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
