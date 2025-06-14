@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/bharani2904/Problem_Solving/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/bharani2904/Problem_Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/bharani2904/Problem_Solving/tree/master/2491-smallest-even-multiple) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/bharani2904/Problem_Solving/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3227-find-missing-and-repeated-values](https://github.com/bharani2904/Problem_Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/bharani2904/Problem_Solving/tree/master/3321-type-of-triangle) |
 ## Greedy
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/bharani2904/Problem_Solving/tree/master/1448-maximum-69-number) |
 | [2011-maximum-value-after-insertion](https://github.com/bharani2904/Problem_Solving/tree/master/2011-maximum-value-after-insertion) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/bharani2904/Problem_Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/bharani2904/Problem_Solving/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/bharani2904/Problem_Solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/bharani2904/Problem_Solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Bit Manipulation
