@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/bharani2904/Problem_Solving/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/bharani2904/Problem_Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bharani2904/Problem_Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/bharani2904/Problem_Solving/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/bharani2904/Problem_Solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/bharani2904/Problem_Solving/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/bharani2904/Problem_Solving/tree/master/2551-apply-operations-to-an-array) |
