@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/bharani2904/Problem_Solving/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/bharani2904/Problem_Solving/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/bharani2904/Problem_Solving/tree/master/0140-word-break-ii) |
+| [0389-find-the-difference](https://github.com/bharani2904/Problem_Solving/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/bharani2904/Problem_Solving/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/bharani2904/Problem_Solving/tree/master/0474-ones-and-zeroes) |
 | [0551-student-attendance-record-i](https://github.com/bharani2904/Problem_Solving/tree/master/0551-student-attendance-record-i) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/bharani2904/Problem_Solving/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bharani2904/Problem_Solving/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2308-divide-array-into-equal-pairs](https://github.com/bharani2904/Problem_Solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2659-number-of-even-and-odd-bits](https://github.com/bharani2904/Problem_Solving/tree/master/2659-number-of-even-and-odd-bits) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/bharani2904/Problem_Solving/tree/master/0389-find-the-difference) |
 | [0692-top-k-frequent-words](https://github.com/bharani2904/Problem_Solving/tree/master/0692-top-k-frequent-words) |
 | [1217-relative-sort-array](https://github.com/bharani2904/Problem_Solving/tree/master/1217-relative-sort-array) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/bharani2904/Problem_Solving/tree/master/1561-rearrange-words-in-a-sentence) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/bharani2904/Problem_Solving/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/bharani2904/Problem_Solving/tree/master/0140-word-break-ii) |
+| [0389-find-the-difference](https://github.com/bharani2904/Problem_Solving/tree/master/0389-find-the-difference) |
 | [0523-continuous-subarray-sum](https://github.com/bharani2904/Problem_Solving/tree/master/0523-continuous-subarray-sum) |
 | [0692-top-k-frequent-words](https://github.com/bharani2904/Problem_Solving/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/bharani2904/Problem_Solving/tree/master/0782-jewels-and-stones) |
