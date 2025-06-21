@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/bharani2904/Problem_Solving/tree/master/1646-kth-missing-positive-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/bharani2904/Problem_Solving/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bharani2904/Problem_Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1881-closest-subsequence-sum](https://github.com/bharani2904/Problem_Solving/tree/master/1881-closest-subsequence-sum) |
 | [2058-concatenation-of-array](https://github.com/bharani2904/Problem_Solving/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/bharani2904/Problem_Solving/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/bharani2904/Problem_Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/bharani2904/Problem_Solving/tree/master/0140-word-break-ii) |
 | [0322-coin-change](https://github.com/bharani2904/Problem_Solving/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/bharani2904/Problem_Solving/tree/master/0474-ones-and-zeroes) |
+| [1881-closest-subsequence-sum](https://github.com/bharani2904/Problem_Solving/tree/master/1881-closest-subsequence-sum) |
 ## Database
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/bharani2904/Problem_Solving/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bharani2904/Problem_Solving/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1881-closest-subsequence-sum](https://github.com/bharani2904/Problem_Solving/tree/master/1881-closest-subsequence-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/bharani2904/Problem_Solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2659-number-of-even-and-odd-bits](https://github.com/bharani2904/Problem_Solving/tree/master/2659-number-of-even-and-odd-bits) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/bharani2904/Problem_Solving/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/bharani2904/Problem_Solving/tree/master/0692-top-k-frequent-words) |
 | [1217-relative-sort-array](https://github.com/bharani2904/Problem_Solving/tree/master/1217-relative-sort-array) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/bharani2904/Problem_Solving/tree/master/1561-rearrange-words-in-a-sentence) |
+| [1881-closest-subsequence-sum](https://github.com/bharani2904/Problem_Solving/tree/master/1881-closest-subsequence-sum) |
 | [1970-sorting-the-sentence](https://github.com/bharani2904/Problem_Solving/tree/master/1970-sorting-the-sentence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bharani2904/Problem_Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3226-minimum-number-game](https://github.com/bharani2904/Problem_Solving/tree/master/3226-minimum-number-game) |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/bharani2904/Problem_Solving/tree/master/0633-sum-of-square-numbers) |
 | [0953-reverse-only-letters](https://github.com/bharani2904/Problem_Solving/tree/master/0953-reverse-only-letters) |
+| [1881-closest-subsequence-sum](https://github.com/bharani2904/Problem_Solving/tree/master/1881-closest-subsequence-sum) |
 | [2442-number-of-arithmetic-triplets](https://github.com/bharani2904/Problem_Solving/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/bharani2904/Problem_Solving/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bharani2904/Problem_Solving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -328,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/bharani2904/Problem_Solving/tree/master/0374-guess-number-higher-or-lower) |
+## Bitmask
+|  |
+| ------- |
+| [1881-closest-subsequence-sum](https://github.com/bharani2904/Problem_Solving/tree/master/1881-closest-subsequence-sum) |
 <!---LeetCode Topics End-->
