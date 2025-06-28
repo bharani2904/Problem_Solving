@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bharani2904/Problem_Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/bharani2904/Problem_Solving/tree/master/0039-combination-sum) |
+| [0118-pascals-triangle](https://github.com/bharani2904/Problem_Solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bharani2904/Problem_Solving/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/bharani2904/Problem_Solving/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/bharani2904/Problem_Solving/tree/master/0139-word-break) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/bharani2904/Problem_Solving/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bharani2904/Problem_Solving/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/bharani2904/Problem_Solving/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/bharani2904/Problem_Solving/tree/master/0139-word-break) |
